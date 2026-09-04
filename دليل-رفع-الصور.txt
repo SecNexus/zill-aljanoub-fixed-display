@@ -1,0 +1,38 @@
+دليل رفع الصور الحقيقية للموقع — ظل الجنوب للمقاولات والحدادة
+==============================================================
+
+الموقع مبني بالكامل ويعمل، لكنه يحتاج صوراً حقيقية في المسارات التالية بالضبط
+(احرص أن تكون كل الصور بصيغة jpg وبحجم معقول لا يتجاوز 300-400 كيلوبايت للصورة
+لضمان سرعة تحميل ممتازة، وهذا معيار مهم جداً لترتيبك بجوجل):
+
+1) صور الغلاف بالصفحة الرئيسية (صورة واحدة تمثيلية لكل خدمة):
+   images/car-shades/cover.jpg
+   images/house-screens/cover.jpg
+   images/sandwich-panels/cover.jpg
+   images/hangars/cover.jpg
+   images/pergolas/cover.jpg
+   images/fences/cover.jpg
+   images/tiles/cover.jpg
+   images/laser-doors-windows/cover.jpg
+   images/general-blacksmithing/cover.jpg
+
+2) صور معرض كل صفحة خدمة على حدة (صور مرقمة داخل مجلد images الخاص بكل صفحة):
+   car-shades/images/1.jpg  إلى  8.jpg
+   house-screens/images/1.jpg  إلى  8.jpg
+   sandwich-panels/images/1.jpg  إلى  7.jpg
+   hangars/images/1.jpg  إلى  8.jpg
+   pergolas/images/1.jpg  إلى  9.jpg
+   fences/images/1.jpg  إلى  8.jpg
+   tiles/images/1.jpg  إلى  8.jpg
+   laser-doors-windows/images/1.jpg  إلى  9.jpg
+   general-blacksmithing/images/1.jpg  إلى  8.jpg
+
+3) الشعار (اختياري لكن يُنصح به بشدة):
+   logo/logo.png  (شعار بخلفية شفافة، مقاس مربع تقريباً 512×512)
+
+4) صورة المشاركة الاجتماعية Open Graph (تظهر عند مشاركة رابط الموقع بواتساب/تويتر):
+   assets/og-image.jpg  (مقاس 1200×630)
+
+ملاحظة مهمة: تأكد أن كل صورة تُظهر فعلاً المشروع المطابق لاسم المجلد
+(مثال: صور مجلد hangars يجب أن تكون هناجر فعلاً وليست صور باب أو مظلة) — هذا
+تفصيل صغير لكنه أثّر سابقاً على مصداقية الموقع وسيؤثر على ثقة الزوار وجوجل.

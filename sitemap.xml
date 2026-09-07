@@ -1,53 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zill-aljanoub.com/index.html</loc>
+    <loc>/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://zill-aljanoub.com/car-shades/index.html</loc>
+    <loc>/car-shades</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zill-aljanoub.com/house-screens/index.html</loc>
+    <loc>/fencess</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zill-aljanoub.com/sandwich-panels/index.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>/general-blacksmithing</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://zill-aljanoub.com/hangars/index.html</loc>
+    <loc>/hangars</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://zill-aljanoub.com/pergolas/index.html</loc>
+    <url>
+    <loc>/laser-doors-windows</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://zill-aljanoub.com/fences/index.html</loc>
+    <url>
+    <loc>/pergolas</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://zill-aljanoub.com/tiles/index.html</loc>
+  
+    <url>
+    <loc>/sandwich-panels</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://zill-aljanoub.com/laser-doors-windows/index.html</loc>
+    <url>
+    <loc>/images</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://zill-aljanoub.com/general-blacksmithing/index.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
 </urlset>

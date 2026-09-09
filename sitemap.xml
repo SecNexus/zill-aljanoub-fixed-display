@@ -14,7 +14,7 @@
     </url>
 
     <url>
-        <loc>https://zill-aljanoub.com/fencess</loc>
+        <loc>https://zill-aljanoub.com/fences</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -27,6 +27,11 @@
 
     <url>
         <loc>https://zill-aljanoub.com/hangars</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+<url>
+        <loc>https://zill-aljanoub.com/house-screens</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
